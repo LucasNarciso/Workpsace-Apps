@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/WorkspaceApps/static/js/main.7dcf7028.js",
+    "main.js": "/WorkspaceApps/static/js/main.b7e20664.js",
     "static/media/Google_Logo.svg": "/WorkspaceApps/static/media/Google_Logo.2521408d0936e356ab653dcc04e2e4e2.svg",
     "index.html": "/WorkspaceApps/index.html",
-    "main.7dcf7028.js.map": "/WorkspaceApps/static/js/main.7dcf7028.js.map"
+    "main.b7e20664.js.map": "/WorkspaceApps/static/js/main.b7e20664.js.map"
   },
   "entrypoints": [
-    "static/js/main.7dcf7028.js"
+    "static/js/main.b7e20664.js"
   ]
 }
