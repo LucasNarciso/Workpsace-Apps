@@ -35,9 +35,10 @@ export const DivbtnLogin = styled.button`
         box-shadow: 3px 3px 6px 0px rgba(0, 0, 0, 0.30);
         cursor: pointer;
     }
-    & ${svg}{
-        width: 20px;
-    }
+`
+
+export const SVGGoogle = styled.svg`
+    width: 20px;
 `
 
 export const TextoBTN = styled.p`
