@@ -14,7 +14,7 @@ export const Fundo = styled.div`
 
 //Logo que fica acima da janela
 export const Logo = styled.div`
-    width: 255px; 
+    width: 230px; 
 `
 
 export const DivbtnLogin = styled.button`
@@ -29,7 +29,7 @@ export const DivbtnLogin = styled.button`
     background: #FFFFFF;
     background-clip: border-box;
     transition: 0.1s ease-in-out;
-    transfor: scale(0.8);
+    transform: scale(0.8);
 
 
     &:hover{
