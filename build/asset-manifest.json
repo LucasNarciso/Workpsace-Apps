@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/WorkspaceApps/static/js/main.ee5e8ebb.js",
+    "static/media/Google_Logo.svg": "/WorkspaceApps/static/media/Google_Logo.2521408d0936e356ab653dcc04e2e4e2.svg",
+    "index.html": "/WorkspaceApps/index.html",
+    "main.ee5e8ebb.js.map": "/WorkspaceApps/static/js/main.ee5e8ebb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ee5e8ebb.js"
+  ]
+}
