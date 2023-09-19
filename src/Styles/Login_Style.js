@@ -31,17 +31,19 @@ export const DivbtnLogin = styled.button`
     transition: 0.1s ease-in-out;
     transform: scale(0.8);
 
-
     &:hover{
         box-shadow: 3px 3px 6px 0px rgba(0, 0, 0, 0.30);
         cursor: pointer;
+    }
+    & ${svg}{
+        width: 20px;
     }
 `
 
 export const TextoBTN = styled.p`
     color: #6D6D6D;
     font-family: Segoe UI;
-    font-size: 26px;
+    font-size: 1rem;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
